@@ -9,6 +9,7 @@
 *.iml
 
 # Bỏ qua thư mục của Unity (nếu dùng Unity)
+/Library/
 Library/
 Logs/
 Temp/
