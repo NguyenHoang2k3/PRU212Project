@@ -1,0 +1,18 @@
+# Bỏ qua thư mục build, log, temp
+/build/
+*.log
+/temp/
+
+# Bỏ qua thư mục của IDE (VSCode, JetBrains, Eclipse...)
+.vscode/
+.idea/
+*.iml
+
+# Bỏ qua thư mục của Unity (nếu dùng Unity)
+Library/
+Logs/
+Temp/
+UserSettings/
+
+# Bỏ qua file môi trường (nếu có)
+.env
